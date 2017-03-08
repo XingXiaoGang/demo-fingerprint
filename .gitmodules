@@ -1,0 +1,3 @@
+[submodule "module-fingerprint"]
+	path = module-fingerprint
+	url = git@github.com:XingXiaoGang/module-fingerprint.git
